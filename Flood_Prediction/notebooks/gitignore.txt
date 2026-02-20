@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+.venv/
+venv/
+
+# System files
+.DS_Store
